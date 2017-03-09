@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="score">Score</string>
+    <string name="sfo">San Francisco</string>
+    <string name="lax">Los Angeles</string>
+    <string name="sac">Sacramento</string>
+    <string name="sna">Irvine</string>
+    <string name="buf">Buffalo</string>
+    <string name="alb">Albany</string>
+    <string name="pou">Poughkeepsie</string>
+    <string name="roc">Rochester</string>
+    <string name="aus">Austin</string>
+    <string name="hou">Houston</string>
+    <string name="dfw">Dallas</string>
+    <string name="sat">San Antonio</string>
+    <string name="amazon">Amazon</string>
+    <string name="missi">Mississippi</string>
+    <string name="nile">Nile</string>
+    <string name="potomac">Potomac</string>
+    <string name="rockies">Rockies</string>
+    <string name="urals">Urals</string>
+    <string name="himalayas">Himalayas</string>
+    <string name="cascades">Cascades</string>
+    <string name="eiffel">Eiffel Tower</string>
+    <string name="pisa">Leaning Tower of Pisa</string>
+    <string name="liberty">Statue of Liberty</string>
+    <string name="ggate">Golden Gate Bridge</string>
+    <string name="alaska">alaska</string>
+    <string name="hawaii">hawaii</string>
+    <string name="submit">Submit</string>
+
+
+
+
+</resources>

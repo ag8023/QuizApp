@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question">
+        <item> What is the capital of California?</item>
+        <item>What is the capital of New York?</item>
+        <item>What is the capital of Texas?</item>
+        <item>Which of the choices below are American rivers?</item>
+        <item>Which of the choices below are American mountain ranges?</item>
+        <item>Which of the choices below are famous American monuments?</item>
+        <item>Which American state is called the "last frontier"?</item>
+        <item>Which American state is made up of a group of islands?</item>
+    </string-array>
+
+    <string-array name="options_q1">
+        <item>@string/sfo</item>
+        <item>@string/lax</item>
+        <item>@string/sac</item>
+        <item>@string/sna</item>
+    </string-array>
+    <string-array name="options_q2">
+        <item>@string/buf</item>
+        <item>@string/alb</item>
+        <item>@string/pou</item>
+        <item>@string/roc</item>
+    </string-array>
+    <string-array name="options_q3">
+        <item>@string/aus</item>
+        <item>@string/hou</item>
+        <item>@string/dfw</item>
+        <item>@string/sat</item>
+    </string-array>
+    <string-array name="options_q4">
+        <item>@string/amazon</item>
+        <item>@string/missi</item>
+        <item>@string/nile</item>
+        <item>@string/potomac</item>
+    </string-array>
+    <string-array name="options_q5">
+        <item>@string/rockies</item>
+        <item>@string/urals</item>
+        <item>@string/cascades</item>
+        <item>@string/himalayas</item>
+    </string-array>
+    <string-array name="options_q6">
+        <item>@string/eiffel</item>
+        <item>@string/pisa</item>
+        <item>@string/liberty</item>
+        <item>@string/ggate</item>
+    </string-array>
+</resources>
